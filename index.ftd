@@ -150,7 +150,7 @@ image: $assets.files.images.mail.png
 ;; ------------------------------------------
 
 -- ftd.image:
-src: $assets.files.images.developer.png
+src: $assets.files.images.images.jpg
 width.fixed.px: 400
 
 -- end: ftd.row
